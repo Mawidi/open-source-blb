@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const app = express();
 
 // to the MongoDB
-mongoose.connect('mongodb+srv://masirika:goma2023.com@cluster0.hqy9pky.mongodb.net/BLB?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://nathan:NA3108tha..@cluster0.hqy9pky.mongodb.net/BLB?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
